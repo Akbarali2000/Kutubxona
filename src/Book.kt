@@ -6,5 +6,6 @@ class Book {
     constructor(bookname: String, bolim: String) {
         this.bookname = bookname
         this.bolim = bolim
+        var doni = "Doni"
     }
 }
